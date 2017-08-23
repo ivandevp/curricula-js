@@ -115,7 +115,7 @@ esta manera veremos un poco de compiladores y profundización en los temas como
 |   2   |      |   Xmin   | [Objetos Pre-construidos](#)
 
 
-### Lección 05: [Funciones](#)
+### Lección 05: [Funciones](05-functions)
 
 Veremos a profundidad el tema de funciones, aprovechando que JavaScript tiene
 una orientación por la programación funcional desde su diseño, características
@@ -123,10 +123,11 @@ importantes como asignar funciones a una variable, pasar como parámetro de otra
 función, cambiar el scope de variables, asignar como valor de una propiedad de
 un objeto, etc.
 
-| Orden | Tipo | Duración | Descripción
-|-------|------|----------|-------------
-|   1   |      |   Xmin   | [Scope](#)
-|   2   |      |   Xmin   | [Funciones](#)
+| Orden | Tipo    | Duración | Descripción
+|-------|---------|----------|-------------
+|   1   | lectura |   Xmin   | [¿Qué son funciones?](05-functions/00-overview.md)
+|   1   |         |   Xmin   | [Scope](#)
+|   2   |         |   Xmin   | [Funciones](#)
 
 ### Lección 06: [Estructura de Datos](#)
 
