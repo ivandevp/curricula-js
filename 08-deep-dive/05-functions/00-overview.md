@@ -26,11 +26,10 @@ cual ayuda a tener funcionalidad relacionada de manera agrupada.
 mejor posible. Siguiendo este principio hará tu función más reusable, legible y
 fácil de depurar.
 
-* **Keep It Simple Stupid (KISS)**: Los programadores a menudo son tentados de
-llegar con soluciones asombrosas. Obviamente, esto es bueno, pero a veces, los
-programadores son muy sabios y las soluciones parecen encriptadas. Esto suele
-suceder cuando una sola línea de código es usada para lograr el objetivo de más
-de un simple problema.
+* **Keep It Simple Stupid (KISS)**: Si bien las funciones deben de hacer solo
+una cosa, es mejor hacerlo súper claro sin hacer la solución compleja solo
+porque se vea interesante. Entonces, es mejor tener algo sencillo, claro y
+conciso que una sola línea de código tratando de hacer todo. 
 
 * **Less Is More**: Para alcanzar la mayor legibilidad posible y reducir la
 tentación de hacer más de una cosa, las funciones deben ser tan cortas como sea
@@ -38,3 +37,19 @@ posible. Si la función se vuelve muy extensa, es bueno considerar separarlo en
 subtareas y datos a lo largo de funciones y objetos.
 
 ***
+
+## Definiendo una función
+
+La definición de una función es simplemente la definición de una variable
+regular donde el valor dado a dicha variable resulta ser una función. Por
+ejemplo, el siguiente código define la variable `square` para referirse a la
+función que devuelve el cuadrado de un número dado:
+
+```javascript
+	var square = function(x) {
+		return x * x;
+	};
+
+	console.log(square(12));
+	// -> 144
+```
