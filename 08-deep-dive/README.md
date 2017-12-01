@@ -66,15 +66,11 @@ Participar en el proyecto involucra lo siguiente:
 
 ### Unidad 01: [Presentación del curso](01-intro)
 
-15min (presencial)
-
 Antes de empezar con la teoría o la práctica, en esta "pre-lección" se hará una
 presentación sobre el curso en sí, los objetivos de aprendizaje, el proyecto, la
 metodología de aprendizaje, requisitos previos y metodología de evaluación.
 
 ### Unidad 02: [Entorno y metodología de trabajo](02-env)
-
-45min (presencial)
 
 Durante esta sesión nos aseguraremos que todas tienen git y node instalado,
 acceso al repo, su propio fork, ...
@@ -87,8 +83,6 @@ acceso al repo, su propio fork, ...
 |   2   | workshop |   15min  | [Entorno: Node.js + npm](02-env/00-node-npm)
 
 ### Unidad 03: [ECMAScript 6](03-es6)
-
-45min (presencial)
 
 JavaScript es el lenguaje de programación, pero la especificación (estándar) del
 lenguaje es ECMAScript, en esta lección veremos algunas nuevas características
@@ -106,8 +100,6 @@ de JS a nivel de sintaxis para comenzar a utilizarlo a lo largo del curso.
 
 ### Unidad 04: [Fundamentos de JavaScript](04-foundations)
 
-1hr (self-paced)
-
 Si bien los fundamentos de JavaScript se vieron desde el primer curso de
 Laboratoria, ahora profundizaremos en entender todo lo que sucede por detrás, de
 esta manera veremos un poco de compiladores y profundización en los temas como
@@ -122,8 +114,6 @@ esta manera veremos un poco de compiladores y profundización en los temas como
 |   5   | workshop |   20min   | [Ejercicios](04-foundations/04-exercises)
 
 ### Unidad 05: [Funciones](05-functions)
-
-1hr (presencial)
 
 Veremos a profundidad el tema de funciones, aprovechando que JavaScript tiene
 una orientación por la programación funcional desde su diseño, características
@@ -140,8 +130,6 @@ un objeto, etc.
 
 ### Unidad 06: [Estructura de Datos](06-data-structures)
 
-40min (presencial)
-
 En ES5, las estructuras de datos por defecto eran Objetos y Arreglos, los cuales
 profundizaremos en esta lección, sin embargo, en ES6 se agregan ciertas
 estructura de datos que veremos como sacar provecho de ellas.
@@ -155,8 +143,6 @@ estructura de datos que veremos como sacar provecho de ellas.
 |   5   | workshop |   20min   | [Ejercicios](06-data-structures/04-exercises)
 
 ### Unidad 07: [Manejo de Excepciones](07-error-handling)
-
-30min (self-paced)
 
 El manejo de errores es importante dentro de todo desarrollo de software, y mas
 aun cuando se piensa en construir un producto que se espera sea reusable y
