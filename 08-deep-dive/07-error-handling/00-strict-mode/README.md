@@ -100,7 +100,3 @@ ningún efecto):
 "use strict";
 delete Object.prototype; // lanza TypeError
 ```
-
-***
-
-[Continuar](01-try-catch.md)

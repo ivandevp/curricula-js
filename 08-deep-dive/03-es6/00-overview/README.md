@@ -50,7 +50,3 @@ A continuación se listan las versiones del estándar y su fecha de publicación
   referencia para hablar de JavaScript del futuro.
 * ECMAScript 6 puede ser referido como ES6 o ES2015 ya sea por versión o año de
   publicación.
-
-***
-
-[Continuar](01-block-scoped-declarations.md)

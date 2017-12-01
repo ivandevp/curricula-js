@@ -150,7 +150,3 @@ fulfilled: operación exitosa.
 rejected: operación fallida o rechazada.
 settled: la Promise ha sido exitosa o rechazada, pero no está pendiente.
 Hablaremos más de ello en los siguientes cursos.
-
-***
-
-[Continuar](../08-dom/00-dom-traversing.md)

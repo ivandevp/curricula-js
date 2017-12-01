@@ -291,7 +291,3 @@ window.onload = function() {
 ...
 }
 ```
-
-***
-
-[Continuar](01-bubbling-capturing.md)

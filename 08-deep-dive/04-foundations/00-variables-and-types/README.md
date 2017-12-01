@@ -289,7 +289,3 @@ Casos de uso:
 "a" < "b"   // true, caso 2
 10 >= 10    // true, caso 3
 ```
-
-***
-
-[Continuar](01-control-flow.md)

@@ -22,7 +22,3 @@ arreglo pero solo de estudiantes que tengan un puntaje mayor a 70.
 
 Dado una colección de películas, calcular la cantidad de vistas total de
 todas las que sean de la categoría _acción_.
-
-***
-
-[Continuar](../07-error-handling/00-strict-mode.md)

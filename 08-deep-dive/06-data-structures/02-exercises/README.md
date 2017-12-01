@@ -26,7 +26,3 @@ propiedades que son únicas del elemento en un string separado por `,`s.
 Implementa los métodos a un objeto `library` que agregue y/o elimine libros de
 una biblioteca, además de realizar dichas operaciones, deberá de actualizar la
 propiedad `total` que almacena la cantidad de libros.
-
-***
-
-[Continuar](03-arrays.md)

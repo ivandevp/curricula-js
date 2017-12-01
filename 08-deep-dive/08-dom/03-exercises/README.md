@@ -23,7 +23,3 @@ tag, solo muestre los posts que lo contenga.
 
 Implementa la funcionalidad de buscar los posts con títulos relacionados a un
 criterio de búsqueda ingresado por el usuario.
-
-***
-
-[Continuar](../09-event-handling/00-events-handling.md)

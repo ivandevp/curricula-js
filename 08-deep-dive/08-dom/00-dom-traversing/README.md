@@ -85,7 +85,3 @@ Text, nodo que contiene el texto encerrado por una etiqueta XHTML.
 Los otros tipos de nodos existentes que no se van a considerar son
 `DocumentType`, `CDataSection`, `DocumentFragment`, `Entity`, `EntityReference`
 ,`ProcessingInstruction` y `Notation`.
-
-***
-
-[Continuar](01-dom-manipulation.md)

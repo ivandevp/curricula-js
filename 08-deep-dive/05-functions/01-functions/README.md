@@ -250,7 +250,3 @@ welcome = function welcome() {
   console.log('Welcome to CE - JS Deep Dive');
 };
 ```
-
-***
-
-[Continuar](02-scope.md)

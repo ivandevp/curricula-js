@@ -89,7 +89,3 @@ de interpolación (`${}`):
 ```javascript
 let myAge = `Mi edad es ${person.age + 3} años`;
 ```
-
-***
-
-[Continuar](03-exercises.md)

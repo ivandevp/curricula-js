@@ -127,7 +127,3 @@ son mejores que otros en ciertas operaciones. Algunos elementos generan más
 re-flow que otros. Afortunadamente, hay varios consejos generales que puede
 utilizar para mejorar el rendimiento, como el caso que vimos de ejemplo
 anteriormente.
-
-***
-
-[Continuar](03-exercises.md)

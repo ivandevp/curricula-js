@@ -30,7 +30,3 @@ Desarrollar los siguientes ejercicios:
 
 * Entendiendo el ámbito
 * El equipo
-
-***
-
-[Continuar](04-destructuring.md)

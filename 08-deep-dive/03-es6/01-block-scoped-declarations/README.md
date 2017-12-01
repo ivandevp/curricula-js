@@ -167,7 +167,3 @@ console.log(USER);
 USER = 'Caro Covarrubias';
 
 ```
-
-***
-
-[Continuar](02-template-strings.md)

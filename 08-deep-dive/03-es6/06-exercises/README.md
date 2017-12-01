@@ -31,7 +31,3 @@ Desarrollar los siguientes ejercicios:
 * Saludo
 * Cuadrado de pares
 * Inventario
-
-***
-
-[Continuar](../04-foundations/00-variables-and-data-types.md)

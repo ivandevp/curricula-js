@@ -73,7 +73,3 @@ Resultado:
 > **Hint:** Revisa sintaxis de [expresiones regulares](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp)
 así como [RegExr](https://regexr.com/) para ayudarte a construir la expresión
 regular.
-
-***
-
-[Continuar](../05-functions/00-overview.md)

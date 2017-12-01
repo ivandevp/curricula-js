@@ -29,5 +29,3 @@ desarrollo del curso, llevaremos 2 sitios interactivos:
 Durante el workshop lxs instructorxs estarán disponibles para ayudar a resolver
 problemas de instalación y resolver dudas con respecto a configuraciones y
 workflow.
-
-[Continuar](01-node%2Bnpm.md)

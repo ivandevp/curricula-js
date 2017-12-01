@@ -157,7 +157,3 @@ explicaremos más detenidamente.
   es el propio objeto.
 * Sus propiedades son `constructor` y `prototype`, las cuales las veremos más
   adelante cuando veamos con más detenimiento el objeto `Object`.
-
-***
-
-[Continuar](../03-exercises.md)

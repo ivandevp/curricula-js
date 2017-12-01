@@ -23,7 +23,3 @@ Dado un inventario en forma de objeto, agregue una función como propiedad
 Implementar una función que almacene una contraseña `laboratoria` y que pasando
 como parámetro la contraseña del usuario, devuelva el mensaje si puede acceder o
 no.
-
-***
-
-[Continuar](../06-data-structures/00-overview.md)

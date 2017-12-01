@@ -144,7 +144,3 @@ nombre de nuestra empresa.
     }
 })( jQuery );
 ```
-
-***
-
-[Continuar](04-exercises.md)

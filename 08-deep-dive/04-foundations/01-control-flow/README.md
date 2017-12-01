@@ -134,7 +134,3 @@ for (let i = 0, l = arr.length; i < l; i++) {
  *
  */
 ```
-
-***
-
-[Continuar](02-built-in-objects.md)

@@ -20,7 +20,3 @@ anterior.
 ## [3. Facebook Comment](https://github.com/Laboratoria/ec-js-deep-dive-exercises/blob/event-handling/event-handling/02-fb-comment.js)
 
 Implementa la funcionalidad de comentar sobre un post que ha sido publicado.
-
-***
-
-[Continuar](../10-jquery/00-selectors.md)

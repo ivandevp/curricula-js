@@ -59,7 +59,3 @@ función que devuelve el cuadrado de un número dado:
   console.log(square(12));
   // -> 144
 ```
-
-***
-
-[Continuar](01-functions.md)

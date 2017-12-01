@@ -75,7 +75,3 @@ $('h1').height();       // obtiene el alto del primer elemento H1
 // del primer elemento relativo al "offset" (posición) de su elemento padre
 $('h1').position();
 ```
-
-***
-
-[Continuar](03-plugin-creation.md)

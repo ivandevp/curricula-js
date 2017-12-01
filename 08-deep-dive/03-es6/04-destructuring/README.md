@@ -74,7 +74,3 @@ console.log(`A es ${a}, B es ${b}`); // 'A es 1, B es 3'
 
 Después de correr este código a vale 1 y b vale 3. El valor 2 es ignorado.
 Puedes ignorar cualquiera de los valores retornados (o incluso todos).
-
-***
-
-[Continuar](05-arrow-functions.md)

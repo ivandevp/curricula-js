@@ -57,7 +57,3 @@ es `false` el `listener` se ejecutará en la `bubbling phase`. Por defecto, el
 valor de este parámetro es `false`. Cabe señalar que también debe ser pasado a
 `removeEventListener` si existen dos listeners, uno para cada fase, que apunten
 al mismo evento y elemento.
-
-***
-
-[Continuar](02-this-eventtarget.md)

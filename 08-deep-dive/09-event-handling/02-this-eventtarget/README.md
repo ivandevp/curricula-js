@@ -139,8 +139,4 @@ $('.gallery-container').on('eventType', '.gallery-item', () =>
 En esta lectura estamos usando `ES6` (si no lo estás usando, deberías). Ten en
 cuenta que si usas una `arrow function` para el `eventHandler` no podrás
 capturar el elemento que dispara el evento usando `this` (como en `ES5`) por
-eso se recomienda usar `e.target`
-
-***
-
-[Continuar](03-exercises.md)
+eso se recomienda usar `e.target`.
