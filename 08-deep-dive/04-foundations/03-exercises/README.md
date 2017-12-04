@@ -1,73 +1,72 @@
-# Ejercicios
+# Retos de código
 
 * Tipo: `practice`
 * Formato: `self-paced`
-* Duración: `10 min`
+* Duración: `30min`
 
 ***
 
-En esta sección practicaremos los siguientes ejercicios:
+## Objetivos
 
-## [1. Flujo](https://github.com/Laboratoria/ec-js-deep-dive-exercises/blob/foundations/foundations/00-flow.js)
+Practicar los conceptos revistados en esta unidad a través de los siguientes
+retos de código:
 
-Calcula la potencia de 2 a un número especificado.
+### [1. Potencia de 2](00-power-of-two)
 
-```markdown
-Datos de entrada:
+Calcula la potencia de 2 elevado a un número específico. Debes de usar un loop
+(no `Math.pow()`).
 
-10
+Ejemplo:
 
-Resultado:
+```javascript
+const output = powerOfTwo(10);
 
-1024
+console.log(ouput); // -> 1024
 ```
 
-## [2. Flujo y estructuras de control](https://github.com/Laboratoria/ec-js-deep-dive-exercises/blob/foundations/foundations/01-flow.js)
+### [2. Invertir un arreglo](01-reverse)
 
-Usar estructuras de control para invertir un arreglo de números.
+Usar estructuras de control para invertir un arreglo de números. Como entrada
+recibirás un arreglo de números u objetos y como salida se espera un arreglo con
+el orden invertido de los elementos.
 
-```markdown
-Datos de entrada:
+> No es válido usar `arr.reverse()`.
 
-[1,2,3,4,5]
+Ejemplo:
 
-Resultado:
+```javascript
+const output = reverse([1, 2, 3, 4]);
 
-[5,4,3,2,1]
+console.log(ouput); // -> [4, 3, 2, 1]
 ```
 
-## [3. Objetos y comparación](https://github.com/Laboratoria/ec-js-deep-dive-exercises/blob/foundations/foundations/02-structures.js)
+### [3. Contador de propiedades](02-object-properties-counter)
 
-Comparación de objetos y estructuras anidadas de objetos. Revisar que dos
-objetos son exactamente los mismos.
+Dado un objeto como parámetro, contar la cantidad de propiedades que este
+contiene y retornarlo.
 
-```markdown
-Datos de entrada:
+Ejemplo:
 
-let obj1 = { obj1: "elemento" };
-let obj2 = obj1;
+```javascript
+const output = objectPropertiesCounter({ 'name': 'John', 'lastname': 'Doe' });
 
-Resultado:
-
-true
+console.log(ouput); // -> 2
 ```
 
-## [4. Objetos preconstruidos](https://github.com/Laboratoria/ec-js-deep-dive-exercises/blob/foundationsfoundations/03-objects.js)
+### [4. Montos sin moneda](03-currency-amount)
 
-Escribe, a partir de una expresión regular, una funcion que permita validar los
-elementos de un arreglo que son números soportados por Javascript y entregue
-como salida un arreglo con los que sí son números. Por ejemplo, son números
-aquellos que tienen un sígno menor antes del número (-10), o aquellos que tienen
-un punto decimal después de un número (1.1).
+Dado un arreglo de montos en distintas monedas, retornar solo los valores sin
+importar la moneda.
 
-```markdown
-Datos de entrada:
+> Las monedas participantes solo son pesos chilenos ($ CLP), pesos mexicanos
+> ($ MXN) y soles (S/. PEN).
 
-['3', '.4', '.', '3+3']
+Ejemplo:
 
-Resultado:
+```javascript
+const output = currencyAmount([ '$ 600 CLP', '$ 1000 MXN', 'S/. 200 PEN' ]);
 
-['3', '.4']
+console.log(ouput); // -> [ 600, 1000, 200 ]
 ```
 
 > **Hint:** Revisa sintaxis de [expresiones regulares](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp)
