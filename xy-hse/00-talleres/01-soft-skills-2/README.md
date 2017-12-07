@@ -34,7 +34,11 @@ latinoamericanas :)
 * Actividad sobre Sororidad "Pacto entre mujeres"
 
 ## Material
-* [Video Run like a girl](https://www.youtube.com/watch?v=XjJQBjWYDTs)
+
+* Always #LikeAGirl
+
+  [![Video Run like a girl](https://img.youtube.com/vi/XjJQBjWYDTs/0.jpg)](https://www.youtube.com/watch?v=XjJQBjWYDTs)
+
 * [Presentación sobre Género](https://docs.google.com/presentation/d/115KlXgdbMPJy3lWHVRdui0NuEccF33l7411EMetrUqE/edit#slide=id.g20d3373bed_0_13)
 * [Ted Talk "Teach girls bravery, not perfection" by Reshma Saujani](https://www.ted.com/talks/reshma_saujani_teach_girls_bravery_not_perfection)
 * [Traducción Ted Talk by Ana María Martínez](https://docs.google.com/document/d/1Dm1roGsZMsqpjs0MdQFPF3xxz04uOF81N5a56zwRcRw/edit)

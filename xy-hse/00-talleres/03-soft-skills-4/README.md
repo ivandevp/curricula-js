@@ -32,4 +32,6 @@
 ## Material
 
 - [Taller IV. Organización, planificación y mindfullness](https://docs.google.com/presentation/d/1M8hXnxLlzBwenINyqKZUqUDBqQ3x42bzh_gZAuT7aa8/edit?usp=sharing)
-- [Video de mindfullness](https://www.youtube.com/watch?v=w6T02g5hnT4&feature=youtu.be)
+- Why mindfulness is a superpower: An animation
+
+  [![Video de mindfullness](https://img.youtube.com/vi/w6T02g5hnT4/0.jpg)](https://www.youtube.com/watch?v=w6T02g5hnT4&feature=youtu.be)

@@ -36,8 +36,12 @@
 ## Material
 
 * [Presentación sobre Afrontamiento del estrés](https://docs.google.com/presentation/d/1TZAKQLfgj-izKgimzbu9W1oe02OUVtrkQLf2OveNQgo/edit#slide=id.g276cb44519_0_27)
-* [Video de estrés](https://www.youtube.com/watch?v=rc-AMRjCWKo)
+* Salud animada - Estrés
+
+  [![Video de estrés](https://img.youtube.com/vi/rc-AMRjCWKo/0.jpg)](https://www.youtube.com/watch?v=rc-AMRjCWKo)
 
 ## Tarea
 
-* [Ted talk: How to make stress your friend](https://www.youtube.com/watch?v=RcGyVTAoXEU)
+* Ted talk: How to make stress your friend
+
+  [![Ted talk: How to make stress your friend](https://img.youtube.com/vi/RcGyVTAoXEU/0.jpg)](https://www.youtube.com/watch?v=RcGyVTAoXEU)
