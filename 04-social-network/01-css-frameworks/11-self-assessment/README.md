@@ -13,6 +13,6 @@
 
 ## Auto-evaluación
 
-- [Santiago de Chile]()
+- [Santiago de Chile](https://goo.gl/forms/medA1WicXiCx2h4x1)
 - [Lima]()
 - [México DF]()
