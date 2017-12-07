@@ -1,7 +1,7 @@
 # DOM
 
 - Tipo: `lectura`
-- Formato: `self-learning`
+- Formato: `self-paced`
 - Duración: `60min`
 
 ***
@@ -29,7 +29,7 @@ La diferencia es que en jQuery son funciones y no propiedades.
 
 ![Ejemplo-text-html-val](https://raw.githubusercontent.com/Laboratoria/curricula-js/30b2d37a0714ed52d2b1ce924951bf61f96916ef/04-social-network/02-jquery/03-dom/text-html-val.png)
 
-> Ya sabemos que el html no debe llevar nuestro script ahí mismo pero
+> Ya sabemos que el HTML no debe llevar nuestro script ahí mismo pero
 > esta imagen es solo para ejemplificar lo arriba mencionado.
 
 jQuery tiene varios métodos para agregar, eliminar o modificar elementos
