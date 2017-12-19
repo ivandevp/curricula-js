@@ -17,7 +17,7 @@ Responde los cuestionarios a continuación:
 - Encuestas de final de sprint
   - [Lima](https://goo.gl/forms/d73mzgCLOZudwAUd2)
   - [Santiago de Chile](https://goo.gl/forms/boUtTxaar8L4bR722)
-  - [CDMX](ttps://goo.gl/forms/G2KB0exSYTL9BZq12)
+  - [CDMX](https://goo.gl/forms/G2KB0exSYTL9BZq12)
 
 - Encuesta de trabajo en equipo
   - [Lima](https://goo.gl/forms/y9uqX34wU2B4y9L23)
